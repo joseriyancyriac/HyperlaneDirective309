@@ -17,3 +17,4 @@ Command centre for Project Hyperlane Directive 309
 ## ⚙️ Secondary Objectives
 
 - [Secondary Objectives Block](https://github.com/joseriyancyriac/secondary-objectives)
+- [Zone Protocols](https://github.com/joseriyancyriac/zone-protocols)

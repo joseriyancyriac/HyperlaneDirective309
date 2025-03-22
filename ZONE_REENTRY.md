@@ -22,13 +22,13 @@ Restore focused working state after cognitive drift or emotional disruption by m
 
 ---
 
-## 3. Social Offloading *(Optional)*  
+## 3. Social Offloading 
 - **Vocal articulation**: Speak out current state or confusion to an external agent (e.g., Nexus or trusted peer) to offload cluttered thought and recalibrate intent.  
 - **Feedback checkpoint**: Log or summarize perceived blockers and reframe them as tasks or dependencies.
 
 ---
 
-## 4. Internal Narrative Reset  
+## 4. Internal Narrative Reset *(Optional)* 
 - **Shift from self-identification to process orientation**: Avoid value judgments ("I’m lazy") and refocus on procedural statements ("Zone not engaged. Reconditioning initiated.").  
 - **Avoid recursive meta-analysis**: Refrain from analyzing the loss of focus. Re-engage with action.
 

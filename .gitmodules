@@ -13,3 +13,6 @@
 [submodule "job-hunt-tracker"]
 	path = job-hunt-tracker
 	url = git@github.com:joseriyancyriac/job-hunt-tracker.git
+[submodule "zone-protocols"]
+	path = zone-protocols
+	url = git@github.com:joseriyancyriac/zone-protocols.git
