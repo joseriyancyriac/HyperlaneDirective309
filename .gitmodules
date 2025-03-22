@@ -1,0 +1,15 @@
+[submodule "german-fluency"]
+	path = german-fluency
+	url = git@github.com:joseriyancyriac/german-fluency.git
+[submodule "wicon-hardware"]
+	path = wicon-hardware
+	url = git@github.com:joseriyancyriac/wicon-hardware.git
+[submodule "control-theory-modeling"]
+	path = control-theory-modeling
+	url = git@github.com:joseriyancyriac/control-theory-modeling.git
+[submodule "bci-sim-lab"]
+	path = bci-sim-lab
+	url = git@github.com:joseriyancyriac/bci-sim-lab.git
+[submodule "job-hunt-tracker"]
+	path = job-hunt-tracker
+	url = git@github.com:joseriyancyriac/job-hunt-tracker.git
