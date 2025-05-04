@@ -1,3 +1,6 @@
+[submodule "mbp_a1706_kubuntu"]
+	path = mbp_a1706_kubuntu
+	url = git@github.com:joseriyancyriac/mbp_a1706_kubuntu.git
 [submodule "german-fluency"]
 	path = german-fluency
 	url = git@github.com:joseriyancyriac/german-fluency.git
